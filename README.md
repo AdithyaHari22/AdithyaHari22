@@ -34,3 +34,5 @@ While data engineering is my main focus, I also take a keen interest in soccer a
 
 ## 🌱 Always Exploring
 I’m constantly learning and experimenting with new techniques in AI and data engineering, seeking innovative ways to merge these disciplines and build intelligent, efficient systems.
+
+🎯 *"Data is the foundation of AI, and I aim to engineer its future."* 🚀 
